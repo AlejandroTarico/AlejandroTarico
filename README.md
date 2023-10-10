@@ -12,7 +12,7 @@ Actualmente trabajo como contratado por el Ministerio de Educación de San Juan,
 
 Gracias al BootCamp de Henry, pude conocer nuevas tecnologías además de las que ya conocía. Dichas tecnologías son:
 
-. JavaScript    . React.js    . Node.js    . PostgreSQL    . Sequelize    . Express.js    . Git
+. JavaScript  <br>  . React.js    . Node.js    . PostgreSQL    . Sequelize    . Express.js    . Git
      
 . PHP    . MySQL    . HTML    . CSS    . WordPress
 
