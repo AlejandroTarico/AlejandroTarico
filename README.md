@@ -6,4 +6,20 @@ Soy un desarrollador Full Stack a quien siempre le gustó la programación. Empe
 
 ## Mi actividad actual
 
-Actualmente trabajo como contratado por el Ministerio de Educación de San Juan, desempeñándome como Administrador de red ubicado en una escuela secundaria, también me encuentro trabajando de manera freelance como diseñador web utilizando WordPress y el constructor de temas Divi.
+Actualmente trabajo como contratado por el Ministerio de Educación de San Juan, desempeñándome como Administrador de red ubicado en una escuela secundaria, también me encuentro trabajando de manera freelance como diseñador web utilizando WordPress y el constructor de temas Divi. En mi tiempo libre sigo aprendiendo de las tecnologías y lenguajes
+
+## Tecnologías 
+
+Gracias al BootCamp de Henry, pude conocer nuevas tecnologías además de las que ya conocía. Dichas tecnologías son:
+. JavaScript
+. React.js
+. Node.js
+. PostgreSQL
+. Sequelize
+. Express.js
+. Git
+. PHP
+. MySQL
+. HTML
+. CSS
+. WordPress
