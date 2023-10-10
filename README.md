@@ -16,3 +16,6 @@ Gracias al BootCamp de Henry, pude conocer nuevas tecnologías además de las qu
      
 . PHP    . MySQL    . HTML    . CSS    . WordPress
 
+Tambén tengo conocimientos en algunas herramientas como Photoshop, AfterEffects, entre otras de edición.
+
+*Contacto
