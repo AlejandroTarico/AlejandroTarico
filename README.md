@@ -23,5 +23,6 @@ Tambén tengo conocimientos en algunas herramientas como Photoshop, AfterEffects
 Si mi perfil cumple con lo que estas buscando, no dudes en contactarme a través de los distintos medios disponibles.
 
 Linkedin: https://www.linkedin.com/in/alejandro-tarico-4935b5232/
+<br>
 Correo: yo.alejo.at@gmail.com
 
