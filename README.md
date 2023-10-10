@@ -12,10 +12,16 @@ Actualmente trabajo como contratado por el Ministerio de Educación de San Juan,
 
 Gracias al BootCamp de Henry, pude conocer nuevas tecnologías además de las que ya conocía. Dichas tecnologías son:
 
-. JavaScript   . React.js    . Node.js    . PostgreSQL    . Sequelize    . Express.js    . Git
+.JavaScript   .React.js    .Node.js    .PostgreSQL    .Sequelize    .Express.js    .Git
      
-. PHP    . MySQL    . HTML    . CSS    . WordPress
+.PHP    .MySQL    .HTML    .CSS    .WordPress
 
 Tambén tengo conocimientos en algunas herramientas como Photoshop, AfterEffects, entre otras de edición.
 
-*Contacto
+##Contacto
+
+Si mi perfil cumple con lo que estas buscando, no dudes en contactarme a través de los distintos medios disponibles.
+
+Linkedin: https://www.linkedin.com/in/alejandro-tarico-4935b5232/
+Correo: yo.alejo.at@gmail.com
+
