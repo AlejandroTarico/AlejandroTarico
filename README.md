@@ -14,5 +14,5 @@ Gracias al BootCamp de Henry, pude conocer nuevas tecnologías además de las qu
 
 . JavaScript    . React.js    . Node.js    . PostgreSQL    . Sequelize    . Express.js    . Git
      
-     . PHP    . MySQL    . HTML    . CSS    . WordPress
+. PHP    . MySQL    . HTML    . CSS    . WordPress
 
