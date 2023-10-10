@@ -1,1 +1,3 @@
-## Hola! Mi nombre es Alejandro Tarico y soy Full Stack Developer
+## Hola! Mi nombre es Alejandro Tarico
+
+
